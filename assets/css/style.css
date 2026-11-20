@@ -52,11 +52,11 @@ section {
 em { color:var(--y); font-style:italic; }
 
 .tag {
-  font:600 12px/1 monospace;
-  letter-spacing:.18em;
+  font:700 16px/1.2 "JetBrains Mono",monospace;
+  letter-spacing:.2em;
   text-transform:uppercase;
   color:var(--y);
-  margin-bottom:18px;
+  margin-bottom:24px;
   display:block;
 }
 
