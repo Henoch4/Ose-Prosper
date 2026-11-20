@@ -1,0 +1,13 @@
+{
+  "name": "ose-prosper-portfolio",
+  "version": "1.0.0",
+  "description": "AI Automation Engineer portfolio — n8n, Claude & CRM Integrations",
+  "private": true,
+  "scripts": {
+    "dev": "serve .",
+    "start": "serve ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  }
+}
